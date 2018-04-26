@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background: #00ECB9;
+  font-family: sans-serif;
+  font-weight: 50;
+}
+
+h1{
+  color: #396;
+  font-weight: 100;
+  font-size: 25;
+  margin: 40px 0px 20px;
+}
+
+#sphd{
+   font-style: italic;
+   color: red 
+}
+
+#timer{
+    font-family: sans-serif;
+    background-color: blue;
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+#anim{
+    padding-top: 10px
+}
+ 
